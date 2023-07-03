@@ -1,0 +1,1229 @@
+fileFormatVersion: 2
+guid: fb67a42d706e73643aa3e04760aaa6d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8517892275537293845
+    second: YungDab_0
+  - first:
+      213: 348906375259342829
+    second: YungDab_1
+  - first:
+      213: 8803953515117603656
+    second: YungDab_2
+  - first:
+      213: -6300108374464412129
+    second: YungDab_3
+  - first:
+      213: -2926177769994577514
+    second: YungDab_4
+  - first:
+      213: -4679332899278793481
+    second: YungDab_5
+  - first:
+      213: -3630193327621596801
+    second: YungDab_6
+  - first:
+      213: 3864636576180352189
+    second: YungDab_7
+  - first:
+      213: 2228947518430459356
+    second: YungDab_8
+  - first:
+      213: 8527662982408669940
+    second: YungDab_9
+  - first:
+      213: 6758425929880111492
+    second: YungDab_10
+  - first:
+      213: 4615527190815763581
+    second: YungDab_11
+  - first:
+      213: -7457367176146926510
+    second: YungDab_12
+  - first:
+      213: -8135044027590598253
+    second: YungDab_13
+  - first:
+      213: -7059854135872299269
+    second: YungDab_14
+  - first:
+      213: 4577904578671311175
+    second: YungDab_15
+  - first:
+      213: -3601727618480606818
+    second: YungDab_16
+  - first:
+      213: -2278333956528344877
+    second: YungDab_17
+  - first:
+      213: 5767791310788561074
+    second: YungDab_18
+  - first:
+      213: -7823667816510224616
+    second: YungDab_19
+  - first:
+      213: -6139622992669804994
+    second: YungDab_20
+  - first:
+      213: 2092255185721966239
+    second: YungDab_21
+  - first:
+      213: -1589478027056636929
+    second: YungDab_22
+  - first:
+      213: -2562676577461623563
+    second: YungDab_23
+  - first:
+      213: -2177434335200657117
+    second: YungDab_24
+  - first:
+      213: -7521848762807943866
+    second: YungDab_25
+  - first:
+      213: -8060349668838227374
+    second: YungDab_26
+  - first:
+      213: -4111968568446684959
+    second: YungDab_27
+  - first:
+      213: -5205724296496724335
+    second: YungDab_28
+  - first:
+      213: 8637229989417109752
+    second: YungDab_29
+  - first:
+      213: 2900341707589519468
+    second: YungDab_30
+  - first:
+      213: 4247097421884830289
+    second: YungDab_31
+  - first:
+      213: 8848550512002722000
+    second: YungDab_32
+  - first:
+      213: -2653417298681759777
+    second: YungDab_33
+  - first:
+      213: -3192066934449457100
+    second: YungDab_34
+  - first:
+      213: 5240576861684283732
+    second: YungDab_35
+  - first:
+      213: 7163716920819481878
+    second: YungDab_36
+  - first:
+      213: 2765698916825401250
+    second: YungDab_37
+  - first:
+      213: -8533729306741379352
+    second: YungDab_38
+  - first:
+      213: -3681055072635335630
+    second: YungDab_39
+  - first:
+      213: -5085747057340421101
+    second: YungDab_40
+  - first:
+      213: -274125324484673673
+    second: YungDab_41
+  - first:
+      213: 7219112914007227902
+    second: YungDab_42
+  - first:
+      213: -7026008192608328487
+    second: YungDab_43
+  - first:
+      213: 8861963949648000970
+    second: YungDab_44
+  - first:
+      213: 2856614467533792747
+    second: YungDab_45
+  - first:
+      213: 6436663884470815856
+    second: YungDab_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YungDab_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f54de34c3980d49b92083e9949e916
+      internalID: 8517892275537293845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 256
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5a53188dec5084a90a897f36494109
+      internalID: 348906375259342829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 256
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7024d13abfe7ab48b892cb9a3a49140
+      internalID: 8803953515117603656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 256
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da20d58a4fccde429571d5a50a61d75
+      internalID: -6300108374464412129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 256
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bc1159359f5f54c912f79bf9c44805
+      internalID: -2926177769994577514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 256
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea0d494ec1ff84438b737c8fac81f96
+      internalID: -4679332899278793481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 256
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b21330dd1d97a3429b96c2636590021
+      internalID: -3630193327621596801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 256
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb9ccb6132041d4faf48619b2d79dfc
+      internalID: 3864636576180352189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4987a3a1c814324b8df46d7977006e4
+      internalID: 2228947518430459356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 232
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2583d8e229eceb546b362914dc92eab6
+      internalID: 8527662982408669940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 232
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4903ac283477f34db677acab0034276
+      internalID: 6758425929880111492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 232
+        width: 13
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceb2b0355ab60646a270ed730a14558
+      internalID: 4615527190815763581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 232
+        width: 13
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f386a0f137f36240b103c8edff03884
+      internalID: -7457367176146926510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 232
+        width: 13
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae06522a5a80f62418a3669e60d65d43
+      internalID: -8135044027590598253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 208
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2f04c4a2044684d9002f36791f59a3
+      internalID: -7059854135872299269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 208
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0cc8c09dc817d4582a900e3a354f01
+      internalID: 4577904578671311175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 208
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53550d47b9c4c844d88641efc63989aa
+      internalID: -3601727618480606818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 208
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673b52a2d6fdb514094f2bba05e4b235
+      internalID: -2278333956528344877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 208
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c3ce5b26864da41bb3e11789017264
+      internalID: 5767791310788561074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 208
+        width: 13
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cd3664331a2354fbad0fad23ac581a
+      internalID: -7823667816510224616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 184
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab399bb8d413ea449e20d1d06b30e90
+      internalID: -6139622992669804994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 186
+        width: 12
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e26bb3acbb3b37438af8ad88de84171
+      internalID: 2092255185721966239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 188
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9625cbe0daefa044ba98a7aa8c9eb90d
+      internalID: -1589478027056636929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 188
+        width: 11
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d0ca087ea63124fa04f53ca0e039b3
+      internalID: -2562676577461623563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 188
+        width: 11
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b748cf88868cdf4481bd2cc007c15f4
+      internalID: -2177434335200657117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 186
+        width: 11
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c283cbfa713432439e572650fbf2e4b
+      internalID: -7521848762807943866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 184
+        width: 11
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb2e54713a3f3f4a9aec5e90a715fc1
+      internalID: -8060349668838227374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 184
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90857c0f33aa5524b820b5ec9fe5313d
+      internalID: -4111968568446684959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffc7d3d359d57e4e97ae607283f646d
+      internalID: -5205724296496724335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 160
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558efd993d9ee574591b6d00f2b68874
+      internalID: 8637229989417109752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d33869845c5ee4d855a03d0fbd9aa5
+      internalID: 2900341707589519468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfdcdae7d093ce41a0953db67ec8d16
+      internalID: 4247097421884830289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 32
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0a2420bce20794f8df0ffca8ec567e
+      internalID: 8848550512002722000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 104
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68272b826e44e041b613d713332489a
+      internalID: -2653417298681759777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_34
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 104
+        width: 26
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d260ce008909cd949b5663e1b691fa0a
+      internalID: -3192066934449457100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 39
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aed9b4d8785cc40bfd9f8a75f3440d
+      internalID: 5240576861684283732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_36
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 48
+        width: 34
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6604f68766dd4df44998cb3065d69db9
+      internalID: 7163716920819481878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 48
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239ecb1936a857640847d7c0f3420fab
+      internalID: 2765698916825401250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 24
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df66b56e04ebb1446bbcd6a0b32d032e
+      internalID: -8533729306741379352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 26
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a456c492a5c5d9409468166e1d98a04
+      internalID: -3681055072635335630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 24
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa37b3866b80ae4bac739a347a83bd2
+      internalID: -5085747057340421101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 24
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6391d5a7fdb63d543afe6168c3f17df4
+      internalID: -274125324484673673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_42
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 24
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fc8dfb464024e468be5a26c985869f
+      internalID: 7219112914007227902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_43
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 24
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1342ed933cd273b4c85fa4681fa653a8
+      internalID: -7026008192608328487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2720270a45e0de6479c8607d88fdd07e
+      internalID: 8861963949648000970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1b25afa690c2042bb8b95aefb60152
+      internalID: 2856614467533792747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YungDab_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aaf74e27ccdbc49a298d740fed3356
+      internalID: 6436663884470815856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a54398f3c6a101c44bdb8b646cd26fa4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
